@@ -7,3 +7,4 @@ This book can be used as a template for other books. It includes a starter packa
 
 - [ ] An item that needs doing
 - [x] An item that is complete
+- [ ] Another item
